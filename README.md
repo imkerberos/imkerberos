@@ -81,8 +81,8 @@ Scala is my primary language. Java, Python, Go, C/C++, JavaScript/TypeScript, Ko
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=imkerberos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkerberos&layout=compact&theme=tokyonight&hide_progress=false" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats-personal-alpha.vercel.app/api?username=imkerberos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats-personal-alpha.vercel.app/api/top-langs/?username=imkerberos&layout=compact&theme=tokyonight&hide_progress=false&count_private=false" alt="Top languages" />
 
 </div>
 
